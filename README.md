@@ -1,5 +1,9 @@
 # 7DaysOfCode---HTML-e-CSS-LinkedIn
 
+### Descrição 
+Desafio 7DaysOfCode Alura clone do LinkedIn.
+
+Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, flexbox, metodologia BEM.
 ### Etapas
 - [ ] Adicionar css reset
 - [ ] Configurar display Grid
