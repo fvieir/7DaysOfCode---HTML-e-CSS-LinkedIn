@@ -1,0 +1,40 @@
+.menu {
+    background: var(--fundo-card);
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 70px;
+}
+
+.menu__left {
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 30%;
+}
+
+.menu__logo{}
+
+.menu__search {
+    display: none;
+}
+
+.manu__rigth {
+    flex-basis: 70%;
+}
+
+.menu__lista {
+    display: flex;
+    justify-content: space-around;
+}
+
+.memu__items {
+    color: var(--texto-principal);
+}
+
+.menu__icons {}
+
+.menu__description {
+    display: none;
+}

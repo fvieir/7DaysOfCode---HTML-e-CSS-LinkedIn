@@ -10,20 +10,22 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
 - [x] Configurar display Grid
     - [x] Adicionar 1 colunas e 2 linhas
     - [x] Areas o grid Header e Content
-- [ ] Adicionar no style.css pseudo :root
+- [x] Adicionar no style.css pseudo :root
     - [x] Cores padrão
     - [x] Tamanhos para media queries - min-width 768px e 1024px
     - [x] Tamanho de fontes
 - [x] Adicionar fontes do google
-- [ ] Tag Header 
-    - [ ] Adicionar estrutura Html para Header
-    - [ ] Adicionar estrutura CSS para Header
-- [ ] Adicionar Grid css para o grid-area / classe Content
-    - [ ] 2 colunas 1 linha
-        - [ ] grid-areas: Seções e Menu lateral
-- [ ] Seção perfil
-    - [ ] Adicionar estrutura HTML
-    - [ ] Adicionar estrutura CSS 
+- [x] Utilizar para aplicação arquiterura mobile first
+    - [x] Tag Header 
+        - [x] Baixar icones
+        - [x] Adicionar estrutura Html para Header
+        - [x] Adicionar estrutura CSS para Header
+    - [ ] Adicionar Grid css para o grid-area / classe Content
+        - [ ] 2 colunas 1 linha
+            - [ ] grid-areas: Seções e Menu lateral
+    - [ ] Seção perfil
+        - [ ] Adicionar estrutura HTML
+        - [ ] Adicionar estrutura CSS 
     
 ---- 
 Seção perfil

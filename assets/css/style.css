@@ -7,6 +7,8 @@
     grid-template-rows: 50px auto;
 
     font-family: var(--font-family-roboto);
+
+    background: var(--fundo-escuro);
 }
 
 .header {
