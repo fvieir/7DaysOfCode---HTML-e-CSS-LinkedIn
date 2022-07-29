@@ -1,0 +1,20 @@
+:root{
+    --fundo-escuro: #000;
+    --fundo-card: #1d2226;
+    --fundo-card-ativo: hsla(0, 0%, 100%, 0.12);
+    --texto-principal: hsla(0, 0%, 100%, 0.9);
+    --texto-secundario: hsla(0, 0%, 100%, 0.6);
+    --texto-escuro: hsla(0, 0%, 0%, 0.75);
+    --input: #38434F;
+    --primario: #70b5f9;
+    --positivo: #3ec786;
+    --sm: 768px;
+    --md: 1024px;
+    --font-24: 1.5rem;
+    --font-20: 1.25rem;
+    --font-16: 1rem;
+    --font-14: .875rem;
+    --font-12: .75rem;
+    --font-family-roboto: 'Roboto', sans-serif;
+}
+

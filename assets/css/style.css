@@ -5,6 +5,8 @@
         "content";
     grid-template-columns: auto;
     grid-template-rows: 50px auto;
+
+    font-family: var(--font-family-roboto);
 }
 
 .header {
