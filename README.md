@@ -21,8 +21,8 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
         - [x] Adicionar estrutura Html para Header
         - [x] Adicionar estrutura CSS para Header
     - [ ] Adicionar Grid css para o grid-area / classe Content
-        - [ ] 2 colunas 1 linha
-            - [ ] grid-areas: Seções e Menu lateral
+        - [x] 1 colunas 2 linha
+            - [x] grid-areas: Seções e Menu lateral
     - [ ] Seção perfil
         - [ ] Adicionar estrutura HTML
         - [ ] Adicionar estrutura CSS 

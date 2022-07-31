@@ -1,0 +1,19 @@
+.content {
+  display: grid;
+  grid-template-areas: 
+  "sections"
+  "lateral-menu";
+  grid-template-columns: auto;
+  grid-template-rows: 500px 500px;
+}
+
+.sections {
+  grid-area: sections;
+  padding-top: 3rem;
+  padding-right: 3rem;
+}
+
+.lateral__menu {
+  grid-area: lateral-menu;
+}
+
