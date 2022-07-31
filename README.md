@@ -24,7 +24,7 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
         - [x] 1 colunas 2 linha
             - [x] grid-areas: Seções e Menu lateral
     - [ ] Seção perfil
-        - [ ] Adicionar estrutura HTML
+        - [x] Adicionar estrutura HTML
         - [ ] Adicionar estrutura CSS 
     
 ---- 
@@ -34,6 +34,5 @@ Você vai desenvolver apenas a seção de informações principais do perfil.
 
 Essa seção contém a imagem de capa, a foto de perfil, nome, título, informações de contato, informações da carreira e, no final da seção, botões de ação. Você pode conferir na imagem abaixo como é aproximadamente o resultado esperado:
 
-https://avatars.githubusercontent.com/u/65264206?v=4
 
 
