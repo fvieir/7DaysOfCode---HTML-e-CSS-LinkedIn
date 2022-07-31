@@ -4,7 +4,7 @@
   "sections"
   "lateral-menu";
   grid-template-columns: auto;
-  grid-template-rows: 500px 500px;
+  grid-template-rows: auto auto;
 }
 
 .sections {
