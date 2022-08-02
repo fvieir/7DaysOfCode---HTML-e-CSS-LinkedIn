@@ -1,0 +1,101 @@
+.profile {
+  background-color: var(--fundo-card);
+
+  width: 90%;
+  margin: 2rem auto;
+
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.profile__user {
+  background: url(../img/capa-profile.png) no-repeat;
+  background-size: 100%;
+  border-radius: 8px;
+
+  display: inline-block;
+
+  padding-left: 2rem;
+}
+
+.profile__image {
+  border-radius: 50%;
+  border: 5px solid var(--texto-principal);
+
+  margin-top: 5%;
+  
+  width: 104px;
+  height: 104px;
+}
+
+.profile__description {
+  
+}
+
+.info {
+  text-align: start;
+}
+
+.info__title {
+  font-size: var(--font-20);
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+
+}
+
+.info__skils{
+  font-size: var(--font-16);
+  font-weight: 500;
+  line-height: 1.4;
+
+  margin-bottom: 1rem;
+}
+
+.info__about,
+.info__address {
+  font-size: var(--font-14);
+  font-weight: 400;
+  color: var(--texto-secundario);
+  line-height: 1.6;
+}
+
+.info__address {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.work {
+  display: none;
+}
+
+.info__followers,
+.info__networking {
+  color: var(--primario);
+  font-size: var(--font-14);
+  font-weight: 500;
+  line-height: 1.6;
+
+  padding-right: .7rem;
+
+}
+
+.profile__buttons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.profile__buttons--message,
+.profile__buttons--about {
+  margin: 1rem 1rem 1rem 0px;
+}
+
+.profile__buttons--message {
+  background-color: var(--primario);
+  color: var(--texto-escuro);
+}
+
+.profile__buttons--about {
+  color: var(--primario);
+}
