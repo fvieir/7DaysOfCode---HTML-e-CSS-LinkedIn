@@ -28,14 +28,17 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
     - [ ] Seção perfil
         - [x] Adicionar estrutura HTML
         - [x] Adicionar estrutura CSS
-    - [ ] 
-    
----- 
-Seção perfil
-
-Você vai desenvolver apenas a seção de informações principais do perfil.
-
-Essa seção contém a imagem de capa, a foto de perfil, nome, título, informações de contato, informações da carreira e, no final da seção, botões de ação. Você pode conferir na imagem abaixo como é aproximadamente o resultado esperado:
+    - [ ] Seção Destaques
+        - [x] Analisar estrutura HTML
+            - [x] Baixar as imagens
+            - [x] Adicionar HTML semântico
+        - [ ] Analisar estrutura CSS
+            - [x] Criar arquivo css
+            - [x] Importar arquivos css
+            - [ ] Adicionar flex box para alinhar um ao lado do outro
+                - [ ] Adicionar overflow-x: scroll
+            - [ ] Adicionar grid css para cada card
+                - [ ] 1 Coluna e 4 linhas
 
 
 
