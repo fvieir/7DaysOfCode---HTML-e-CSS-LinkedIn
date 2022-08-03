@@ -32,13 +32,15 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
         - [x] Analisar estrutura HTML
             - [x] Baixar as imagens
             - [x] Adicionar HTML semântico
-        - [ ] Analisar estrutura CSS
+        - [x] Analisar estrutura CSS
             - [x] Criar arquivo css
             - [x] Importar arquivos css
-            - [ ] Adicionar flex box para alinhar um ao lado do outro
-                - [ ] Adicionar overflow-x: scroll
-            - [ ] Adicionar grid css para cada card
-                - [ ] 1 Coluna e 4 linhas
+            - [x] Adicionar flex box para alinhar um abaixo do outro
+            - [x] Adicionar grid css para cada card
+                - [x] 1 Coluna e 4 linhas
+    - [ ] Seção Atividades
+        - [ ] Analisar estrutura HTML
+        - [ ] Analisar estrutura CSS
 
 
 
