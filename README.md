@@ -39,8 +39,10 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
             - [x] Adicionar grid css para cada card
                 - [x] 1 Coluna e 4 linhas
     - [ ] Seção Atividades
-        - [ ] Analisar estrutura HTML
+        - [x] Analisar estrutura HTML
         - [ ] Analisar estrutura CSS
+            - [ ] Adcionar grid css na lista de atividades com 2 colunas e 3 linhas
+            
 
 
 
