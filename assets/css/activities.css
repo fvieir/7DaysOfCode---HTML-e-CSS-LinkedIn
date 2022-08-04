@@ -1,69 +1,110 @@
 .activities {
   background-color: var(--fundo-card);
+
+  box-sizing: border-box;
+
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  border-radius: 8px;
+
+  color: var(--texto-principal);
+
+  line-height: 1.6;
 }
 
 .activities__title {
-
+  font-size: var(--font-20);
+  font-weight: 600;
 }
 
 .activities__followers {
-
+  font-size: var(--font-14);
+  font-weight: 500;
+  color: var(--primario);
 }
 
 .activities__list {
-
+  margin-top: .7rem;
 }
 
 .activities__items {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto auto;
+  gap: .7rem;
 
+  padding: 1rem 0;
+
+  border-bottom: 1px solid var(--texto-principal);
 }
 
 .activities__publication-info {
+  grid-column: 1 / 3;
+  grid-row: 1 / 2;
 
-}
+  font-size: var(--font-14);
+  font-weight: 400;
+  color: var(--texto-secundario);
+} 
 
 .activities__image {
-
+  grid-column: 1 / 2;
+  grid-row: 2 / 2;
+  
 }
 
 .activities__description {
-
+  grid-column: 2 / 3;
+  grid-row: 2 / 2;
+  
+  font-size: var(--font-14);
+  font-weight: 400;
 }
 
 .activities__likes-coments {
+  grid-column: 1 / 3;
+  grid-row: 3 / 3;
 
+  font-size: var(--font-12);
+  font-weight: 400;
+  color: var(--texto-secundario);
+  
+  display: flex;
+  justify-content: space-between;
 }
 
 .activities__likes {
-
+  display: flex;
+  justify-content: flex-start;
 }
 
 .activities__icons {
-
+  width: 16px;
+  height: 16px;
+  
+  border-radius: 50%;
 }
 
-.activities__icons--blue {
-
+.activities__icons.activities__icons--blue {
+  background-color: var(--primario);
 }
 
-.activities__icons--green {
-
+.activities__icons.activities__icons--green {
+  background-color: var(--positivo);
+  margin-left: -8px;
 }
 
-.activities__icons--red {
-
-}
-
-.activities__likes-coments__total {
-
-}
-
-.activities__likes-coments___coments {
-
+.activities__icons.activities__icons--red {
+  background-color: var(--ligth-red);
+  margin-left: -8px;
+  margin-right: .1rem;
 }
 
 .activities__more {
-
+  padding: 1rem;
+  text-align: center;
+  color: var(--texto-secundario);
 }
 
 
