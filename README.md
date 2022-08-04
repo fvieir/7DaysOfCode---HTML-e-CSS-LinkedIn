@@ -41,8 +41,10 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
     - [ ] Seção Atividades
         - [x] Analisar estrutura HTML
         - [ ] Analisar estrutura CSS
+            - [x] Criar arquivo css
+            - [x] Importar arquivos css
             - [ ] Adcionar grid css na lista de atividades com 2 colunas e 3 linhas
-            
+
 
 
 
