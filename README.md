@@ -47,6 +47,9 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
     - [x] Seção Sobre
         - [x] Analisar estrutura HTML
         - [x] Analisar estrutura CSS
+    - [] Seção Experiências
+        - [] Analisar estrutura HTML
+        - [] Analisar estrutura CSS
     
 
 
