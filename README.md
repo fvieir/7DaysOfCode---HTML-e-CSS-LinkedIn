@@ -38,13 +38,16 @@ Nesse desáfio o projeto sera feito com HTML e CSS usando tecnicas de Grid CSS, 
             - [x] Adicionar flex box para alinhar um abaixo do outro
             - [x] Adicionar grid css para cada card
                 - [x] 1 Coluna e 4 linhas
-    - [ ] Seção Atividades
+    - [x] Seção Atividades
         - [x] Analisar estrutura HTML
         - [x] Analisar estrutura CSS
             - [x] Criar arquivo css
             - [x] Importar arquivos css
             - [x] Adcionar grid css na lista de atividades com 2 colunas e 3 linhas
-
+    - [x] Seção Sobre
+        - [x] Analisar estrutura HTML
+        - [x] Analisar estrutura CSS
+    
 
 
 

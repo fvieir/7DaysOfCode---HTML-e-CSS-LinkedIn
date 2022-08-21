@@ -1,14 +1,8 @@
 .activities {
-  background-color: var(--fundo-card);
-
   box-sizing: border-box;
 
   padding-top: 1rem;
   padding-bottom: 1rem;
-
-  border-radius: 8px;
-
-  color: var(--texto-principal);
 
   line-height: 1.6;
 }
